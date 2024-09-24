@@ -1,3 +1,17 @@
+# iris
+database.sqlite
+dataset-metadata.json
+iris.csv
+
+# bq
+bq-crudek-data.json
+
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
