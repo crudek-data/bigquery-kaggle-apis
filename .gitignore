@@ -6,13 +6,6 @@ iris.csv
 # bq
 bq-crudek-data.json
 
-
-# beam dental individual run
-indi_run_beam.ipynb
-
-
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
