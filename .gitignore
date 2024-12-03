@@ -3,6 +3,9 @@ database.sqlite
 dataset-metadata.json
 iris.csv
 
+# venv
+venv_bq/
+
 # bq
 bq-crudek-data.json
 
